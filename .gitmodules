@@ -1,0 +1,3 @@
+[submodule "xviz"]
+	path = xviz
+	url = https://github.com/summerpaul/libxviz.git
