@@ -4,6 +4,7 @@
 @REM Modified time: 2023-12-26 18:00:13
 
 rmdir /s /q build
+rmdir /s /q bin
 mkdir build
 cd build
 cmake .. -A x64 
